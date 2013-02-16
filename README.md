@@ -2,4 +2,4 @@
 
 ## メンバー紹介
 
--nipper
+- nipper
